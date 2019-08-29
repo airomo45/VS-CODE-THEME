@@ -2,5 +2,10 @@
 
 # Custom Theme for my VS-Code IDE
 
-#Screenshot:
+# Screenshots:
+
+![alt text](./screenshots/ss1)
+
+![alt text](./screenshots/ss2)
+
 
