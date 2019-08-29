@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "workbench.colorCustomizations": {
+        "[Abyss]": {
+            // "sideBar.background": "#05073e",
+            // "terminal.border": "#e5362dd5",
+            // "terminal.background": "#ff0000"
+            "terminal.foreground": "#7dc8ec"
+
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[Abyss]": {
+            // "comments": "#782525"
+            "strings": "#54c8b3",
+            "types": "#9c77f3"
+        }
+    },
+    "window.zoomLevel": -1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.startupEditor": "newUntitledFile"
+}
