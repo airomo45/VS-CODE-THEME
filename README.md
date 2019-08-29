@@ -4,9 +4,5 @@
 
 # Screenshots:
 
-![alt text](./screenshots/ss1)
 
-![alt text](./screenshots/ss2)
-
-
-![picture](screenshots/ss1)
+![picture](./screenshots/ss1.png)
